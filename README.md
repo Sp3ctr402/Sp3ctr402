@@ -14,8 +14,8 @@
 ###
 
 <p align="left">
-  <li>♟️​ C++ Chess Engine</li>
-  <li>🎛️​ C# Soundboard</li>
+  <li>♟️​ C++ Chess Engine
+  🎛️​ C# Soundboard
   <li>🔗 Personal Website</li>
 </p>
 
