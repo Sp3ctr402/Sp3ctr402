@@ -2,8 +2,13 @@
 
 ###
 
+<h2 align="left">📚​| ​Languages</h2>
 <div align="left">
-  <img src="/images/c++x64.png"
+  <img src="/images/c++x64.png"></img>
+  <img src="/images/pythonx64.png"></img>
+  <img src="/images/jsx64.png"></img>
+  <img src="/images/htmlx64.png"></img>
+  <img src="/images/cssx64.png"></img>
 </div>
 
 ###
