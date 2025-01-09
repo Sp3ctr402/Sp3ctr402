@@ -1,4 +1,4 @@
-<h1 align="left">🐦‍🔥| Sp3ctr402 - Developer Profile</h1>
+<h1 align="left">>>| Sp3ctr402 - Developer Profile</h1>
 
 ###
 
