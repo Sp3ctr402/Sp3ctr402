@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">♟️​ C++ Chess Engine<br>  🔗 Personal Website</p>
+<p align="left">♟️​ C++ Chess Engine<br>  🔗 Personal Website<br> 🚗​ ML Rocket League Bot</p>
 
 ###
 
